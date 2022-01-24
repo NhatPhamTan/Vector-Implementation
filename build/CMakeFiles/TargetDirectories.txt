@@ -1,0 +1,6 @@
+/mnt/c/Users/ptnha/Downloads/Ubuntu_Disk/Vector/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ptnha/Downloads/Ubuntu_Disk/Vector/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ptnha/Downloads/Ubuntu_Disk/Vector/build/src/main/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ptnha/Downloads/Ubuntu_Disk/Vector/build/src/main/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ptnha/Downloads/Ubuntu_Disk/Vector/build/src/main/CMakeFiles/vector-shared.dir
+/mnt/c/Users/ptnha/Downloads/Ubuntu_Disk/Vector/build/src/main/CMakeFiles/vector-objs.dir

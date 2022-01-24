@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/vector.hpp
+iostream
+-
+
+/mnt/c/Users/ptnha/Downloads/Ubuntu_Disk/Vector/src/main/vector.cpp
+vector.hpp
+-
+iostream
+-
+string
+-
+cmath
+-
+
